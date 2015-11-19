@@ -10,3 +10,7 @@
 ### 2. [A few code snippets from my Xcode arsenal http://nshipster.com/xcode-snippets/](https://github.com/Xcode-Snippets/Objective-C)  
     Just a few code snippets I have in my Xcode arsenal. In dotfiles fashion, I 
     thought it'd be cool to put these out in the ether.
+
+### 3. [国人总结的上百个Github上的开发框架和完整App](http://github.ibireme.com/github/list/ios/)
+
+
